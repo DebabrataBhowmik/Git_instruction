@@ -26,3 +26,10 @@ To remove from git history(details in [this page](https://stackoverflow.com/ques
 
 `git filter-branch --tree-filter 'rm -rf fallingData_allvar_fullstat.csv' HEAD`
 
+In case enccountered with the following error:
+
+"Support for password authentication was removed. Please use a personal access token instead."
+
+Follow the instructions at [this page](https://stackoverflow.com/questions/68775869/message-support-for-password-authentication-was-removed-please-use-a-personal/)
+
+Besides reading the instruction for MAC OS, read the instructions for WINDOWS OS as well to get the full idea.
