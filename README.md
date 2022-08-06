@@ -28,11 +28,9 @@ To remove from git history(details in [this page](https://stackoverflow.com/ques
 
 In case enccountered with the following error:
 
-**_
 ```diff
 !"Support for password authentication was removed. Please use a personal access token instead."
 ```
-_**
 
 Follow the instructions at [this page](https://stackoverflow.com/questions/68775869/message-support-for-password-authentication-was-removed-please-use-a-personal/)
 
